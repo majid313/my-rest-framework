@@ -1,0 +1,3 @@
+#!c:\djangoProjects\Serialization\env\Scripts\python.exe
+from requirements_detector.run import run
+run()
